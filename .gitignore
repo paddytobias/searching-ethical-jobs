@@ -1,0 +1,5 @@
+.httr-oauth
+.Rproj.user
+scripts/job_search.Rproj
+.DS_Store
+database/job.db
