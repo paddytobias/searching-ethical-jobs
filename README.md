@@ -8,5 +8,10 @@ If you wish to use this program yourself, you need to save *your* parameters to 
 
 There is some logic in terms of scoring the jobs according to mentions of particular things in their descriptions (see `post_process.R`). Feel free to change these string counts to what ever you want. 
 
-You can do what I have done and set this up in cronjobs. 
+You can do what I have done and set this up in cronjobs. To run the program just run `bash run.sh`
+
+## Dependencies
+* R and R packages
+* Unix
+
  
