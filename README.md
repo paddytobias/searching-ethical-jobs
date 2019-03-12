@@ -1,4 +1,4 @@
-#Searching for ethical jobs
+# Searching for ethical jobs
 
 This program is designed to run on a daily basis to poll Ethical Jobs and collect all jobs for a given search. 
 
@@ -8,4 +8,5 @@ If you wish to use this program yourself, you need to save *your* parameters to 
 
 There is some logic in terms of scoring the jobs according to mentions of particular things in their descriptions (see `post_process.R`). Feel free to change these string counts to what ever you want. 
 
+You can do what I have done and set this up in cronjobs. 
  
